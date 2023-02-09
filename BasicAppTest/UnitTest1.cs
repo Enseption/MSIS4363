@@ -13,6 +13,7 @@ namespace BasicAppTest
             Class1 tp = new Class1();
             Assert.AreEqual(tp.Name, "Jason Allen - The Code Master");
             //This is a test
+            //Feat1 test
         }
     }
 }
