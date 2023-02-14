@@ -11,6 +11,7 @@
         <div>
             <% JA_Basic_App_GitHub.Class1 tp = new JA_Basic_App_GitHub.Class1(); %>
             <%=tp.Name %>
+            <%-- This is a test --%>
         </div>
     </form>
 </body>
